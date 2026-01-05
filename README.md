@@ -5,7 +5,7 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-20639B?style=for-the-badge&logo=make&logoColor=white)
 
-This repository contains my work from the **Piscine Reloaded** project at 42 Porto.
+This repository contains my work from the **Piscine Reloaded** project at **42 Porto**.
 
 ## 📌 About The Project
 
