@@ -91,9 +91,9 @@ Below is the list of exercises solved in this project:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Core** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| **Build System** | ![Makefile](https://img.shields.io/badge/Makefile-20639B?style=for-the-badge&logo=gnu-make&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| **Core** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white) |
+| **Build System** | ![Makefile](https://img.shields.io/badge/-Makefile-20639B?logo=gnu-make&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 
 ---
 
