@@ -396,7 +396,6 @@ Below is the list of exercises solved in this project:
 ## 📝 License & credits
 
 * **Curriculum:** [42 Porto](https://www.42network.org/campus/42-porto/)
-* **Rush Template:** [BootstrapMade](https://bootstrapmade.com/)
 
 > *This project is part of the 42 Student Network curriculum.*
 
