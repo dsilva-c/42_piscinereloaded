@@ -1,6 +1,6 @@
 <div align="center">
 
-# 42 Piscine Reloaded 🏊‍♂️ 💻 🔄
+# 42 Piscine Reloaded
 
 ![42 Piscine Reloaded](https://img.shields.io/badge/42-Piscine_Reloaded-00babc?style=for-the-badge&logo=42)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -34,6 +34,8 @@ By revisiting these challenges, the project helps consolidate knowledge of:
 Below is the list of exercises solved in this project:
 
 ### Shell & Unix Commands
+
+<div align="center">
 
 <table width="100%">
     <thead>
@@ -84,7 +86,11 @@ Below is the list of exercises solved in this project:
     </tbody>
 </table>
 
+</div>
+
 ### C Basics & Pointers
+
+<div align="center">
 
 <table width="100%">
     <thead>
@@ -135,7 +141,11 @@ Below is the list of exercises solved in this project:
     </tbody>
 </table>
 
+</div>
+
 ### Algorithms & Math
+
+<div align="center">
 
 <table width="100%">
     <thead>
@@ -168,7 +178,11 @@ Below is the list of exercises solved in this project:
     </tbody>
 </table>
 
+</div>
+
 ### String Manipulation
+
+<div align="center">
 
 <table width="100%">
     <thead>
@@ -201,7 +215,11 @@ Below is the list of exercises solved in this project:
     </tbody>
 </table>
 
+</div>
+
 ### Command Line Arguments
+
+<div align="center">
 
 <table width="100%">
     <thead>
@@ -228,7 +246,11 @@ Below is the list of exercises solved in this project:
     </tbody>
 </table>
 
+</div>
+
 ### Memory & Structs
+
+<div align="center">
 
 <table width="100%">
     <thead>
@@ -267,7 +289,11 @@ Below is the list of exercises solved in this project:
     </tbody>
 </table>
 
+</div>
+
 ### Makefile & Function Pointers
+
+<div align="center">
 
 <table width="100%">
     <thead>
@@ -300,7 +326,11 @@ Below is the list of exercises solved in this project:
     </tbody>
 </table>
 
+</div>
+
 ### File Manipulation
+
+<div align="center">
 
 <table width="100%">
     <thead>
@@ -321,14 +351,18 @@ Below is the list of exercises solved in this project:
     </tbody>
 </table>
 
+</div
+
 ---
 
 ## 🛠️ Tech stack
 
+<div align="center">
+
 <table width="100%">
     <thead>
         <tr>
-            <th width="20%">Category</th>
+            <th width="80%">Category</th>
             <th width="80%">Technologies</th>
         </tr>
     </thead>
@@ -355,20 +389,19 @@ Below is the list of exercises solved in this project:
     </tbody>
 </table>
 
+</div>
+
 ---
 
 ## 📝 License & credits
 
 * **Curriculum:** [42 Porto](https://www.42network.org/campus/42-porto/)
-
----
-
-<div align="center">
-
-## 📈 Final grade
-
-<img width="800" alt="piscinereloaded_grade" src="https://github.com/user-attachments/assets/90ebfd3f-234c-4f07-bd02-199fcf868aed" />
+* **Rush Template:** [BootstrapMade](https://bootstrapmade.com/)
 
 > *This project is part of the 42 Student Network curriculum.*
 
-</div>
+---
+
+## 📈 Final grade
+
+<img width="1101" height="117" alt="piscinereloaded_grade" src="https://github.com/user-attachments/assets/cdd79954-e8cf-4514-9d80-cf8be5b31b3a" />
