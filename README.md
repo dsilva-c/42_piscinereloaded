@@ -102,4 +102,10 @@ Below is the list of exercises solved in this project:
 
 * **Curriculum:** [42 Porto](https://www.42network.org/campus/42-porto/)
 
+---
+
+## 📈 Final Grade
+
+<img width="1101" height="117" alt="piscinereloaded_grade" src="https://github.com/user-attachments/assets/90ebfd3f-234c-4f07-bd02-199fcf868aed" />
+
 > *This project is part of the 42 Student Network curriculum.*
