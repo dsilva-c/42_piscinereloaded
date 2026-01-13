@@ -1,11 +1,14 @@
+<img width="2000" height="500" alt="PiscineReloaded_cover" src="https://github.com/user-attachments/assets/af6d44eb-645a-41e9-ad6c-ef052be24b5d" />
+
 <div align="center">
 
 # 42 Piscine Reloaded
 
-![42 Piscine Reloaded](https://img.shields.io/badge/42-Piscine_Reloaded-00babc?style=for-the-badge&logo=42)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-20639B?style=for-the-badge&logo=make&logoColor=white)
+![42 Piscine Reloaded](https://img.shields.io/badge/Porto-Piscine_Reloaded-00babc?style=for-the-badge&logo=42&logoColor=white&labelColor=000000)
+<br/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="margin-right:6px"/>
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" style="margin-right:6px"/>
+<img src="https://img.shields.io/badge/Makefile-20639B?style=for-the-badge&logo=make&logoColor=white" style="margin-right:6px"/>
 
 <p>
     This repository contains my work from the <b>Piscine Reloaded</b> project at <b>42 Porto</b>.
@@ -362,7 +365,7 @@ Below is the list of exercises solved in this project:
 <table width="100%">
     <thead>
         <tr>
-            <th width="80%">Category</th>
+            <th width="20%">Category</th>
             <th width="80%">Technologies</th>
         </tr>
     </thead>
